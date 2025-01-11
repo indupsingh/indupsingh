@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @indupsingh
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: It takes sloths up to a month to digest a single leaf.
 
